@@ -1,7 +1,11 @@
 @font-face {
 	font-family: neue haas;
 	src: url(../fonts/NeueHaasDisplay-Roman.ttf);
-	src: url(../fonts/NeueHaasDisplay-Roman.woff2);
+	src: url(../fonts/NeueHaasDisplay-Roman.woff);
+	src: url(fonts/NeueHaasDisplay-Roman.ttf);
+	src: url(fonts/NeueHaasDisplay-Roman.woff);
+	src: url(../NeueHaasDisplay-Roman.ttf);
+	src: url(../NeueHaasDisplay-Roman.woff);
 }
 
 @font-face {
