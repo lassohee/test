@@ -1,11 +1,11 @@
 @font-face {
 	font-family: neue haas;
-	src: url(../fonts/NeueHaasDisplay-Roman.ttf);
-	src: url(../fonts/NeueHaasDisplay-Roman.woff);
-	src: url(fonts/NeueHaasDisplay-Roman.ttf);
-	src: url(fonts/NeueHaasDisplay-Roman.woff);
-	src: url(../NeueHaasDisplay-Roman.ttf);
-	src: url(../NeueHaasDisplay-Roman.woff);
+	src: url(../fonts/NeueHaasDisplay-Roman.ttf) format('truetype'),
+	src: url(../fonts/NeueHaasDisplay-Roman.woff) format('woff'),
+	src: url(fonts/NeueHaasDisplay-Roman.ttf) format('truetype'),
+	src: url(fonts/NeueHaasDisplay-Roman.woff) format('woff'),
+	src: url(../NeueHaasDisplay-Roman.ttf) format('truetype'),
+	src: url(../NeueHaasDisplay-Roman.woff)format('woff');
 }
 
 @font-face {
